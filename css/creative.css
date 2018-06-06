@@ -170,6 +170,8 @@ header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
   background-image: url("../img/background.jpg");
+   background-attachment: fixed;
+ background-position: center;
    background-size: cover;
  background-repeat: no-repeat;
   /* background-position: center center;
