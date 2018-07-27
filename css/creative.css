@@ -311,20 +311,30 @@ header.masthead p {
   box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
 }
 
+/* About  */
 .profile-image {
   height: auto;
-  margin-top: 10px;
-  margin-right: 25px;
   border-radius: 50%;
 }
 
-.about{
-  text-align: left;
-  font-family: cursive;
-  font-size: 30px;
+#headingName{
+  font-family: kaushan script, cursive;
+  font-size: 40px;
 }
 
+.greeting{
+  text-align: left;
+  font-family: kaushan script, cursive;
+  font-size: 25px;
+}
+
+/* Work Experience */
+#workExperience{
+background-color: #F4E8C1;
+}
+
+/* Education */
 .education{
-  background-color: #F4E8C1;
+  background-color: #387780;
 }
 
